@@ -1,10 +1,11 @@
-package au.com.nuvento.demo
+package au.com.nuvento.atm
 
-import scala.io.StdIn._
-import scala.util.control.Breaks._
-import au.com.nuvento.demo.commands.Operations
+import au.com.nuvento.atm.commands.Operations
+import scala.io.StdIn.*
+import scala.util.control.Breaks.break
 
-object App {
+
+object ATM {
 
   def userInteraction(): Unit = {
     // Main input

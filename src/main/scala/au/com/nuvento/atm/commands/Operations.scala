@@ -1,4 +1,4 @@
-package au.com.nuvento.demo.commands
+package au.com.nuvento.atm.commands
 
 object Operations {
   def add(a: Int, b: Int): Int = a + b
