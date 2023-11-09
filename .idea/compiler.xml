@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="scala-atm-project" target="1.5" />
+      <module name="scala-atm-project" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
